@@ -1,0 +1,30 @@
++------------------+
+|    Usuário       |
++------------------+
+        |
+        |---------------------------+
+        |                           |
+        v                           v
+ [Cadastrar-se]              [Login]
+        |
+        v
+ [Visualizar Campanhas] <--------+
+        |                         |
+        v                         |
+ [Fazer Doação (financeira/física)]
+        |
+        v
+ [Receber Confirmação]            |
+        |                         |
+        v                         |
+ [Ver Histórico de Doações]      |
+                                  |
++------------------+             |
+| Administrador ONG|<------------+
++------------------+
+        |
+        v
+ [Gerenciar Campanhas]
+        |
+        v
+ [Ver Relatórios de Doações]

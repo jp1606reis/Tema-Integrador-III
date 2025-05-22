@@ -1,0 +1,6 @@
+RNF01 – O sistema deve estar disponível 99,9% do tempo (alta disponibilidade).
+RNF02 – O sistema deve ser compatível com dispositivos móveis (responsivo).
+RNF03 – O sistema deve carregar as páginas em até 3 segundos.
+RNF04 – O sistema deve garantir a segurança dos dados dos usuários (criptografia de senhas e dados financeiros).
+RNF05 – O sistema deve seguir a LGPD (Lei Geral de Proteção de Dados).
+RNF06 – A interface do sistema deve ser intuitiva e acessível (seguir diretrizes WCAG).

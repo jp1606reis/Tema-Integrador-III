@@ -1,0 +1,57 @@
++------------------+
+|     Usuario      |
++------------------+
+| - id             |
+| - nome           |
+| - email          |
+| - senha          |
++------------------+
+| +fazerDoacao()   |
+| +verHistorico()  |
++------------------+
+
++------------------+
+|     Campanha     |
++------------------+
+| - id             |
+| - titulo         |
+| - descricao      |
+| - dataInicio     |
+| - dataFim        |
+| - meta           |
+| - valorArrecadado|
++------------------+
+| +ativa()         |
++------------------+
+
++------------------+
+|     Doacao       |
++------------------+
+| - id             |
+| - tipo           |
+| - valor          |
+| - data           |
+| - status         |
++------------------+
+| +confirmar()     |
++------------------+
+
++------------------+
+| Administrador    |
++------------------+
+| - id             |
+| - nome           |
+| - email          |
++------------------+
+| +criarCampanha() |
+| +editarCampanha()|
+| +removerCampanha()|
++------------------+
+
++------------------+
+|  ItemFisico      |
++------------------+
+| - descricao      |
+| - dataEntrega    |
+| - localEntrega   |
++------------------+

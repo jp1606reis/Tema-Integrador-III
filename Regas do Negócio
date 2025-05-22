@@ -1,0 +1,6 @@
+RN01 – Apenas administradores da ONG podem criar, editar ou excluir campanhas.
+RN02 – Uma doação só será considerada concluída após confirmação do pagamento.
+RN03 – Não é permitido ao mesmo usuário realizar mais de uma doação não concluída para a mesma campanha.
+RN04 – Campanhas têm data de começo e término e só são exibidas se estiverem ativas.
+RN05 – Doações de itens físicos devem conter uma descrição e data para retirada/entrega.
+RN06 – Cada usuário pode consultar seu histórico de doações, mas não o de outros usuários.

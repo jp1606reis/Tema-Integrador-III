@@ -1,10 +1,7 @@
-RF01 – O sistema deve permitir o cadastro de doadores.
-RF02 – O sistema deve permitir o login de usuários cadastrados.
-RF03 – O sistema deve permitir que o usuário visualize as campanhas ativas.
-RF04 – O sistema deve permitir que o usuário realize doações financeiras via cartão de crédito, débito ou PIX.
-RF05 – O sistema deve permitir que o usuário realize doações de itens físicos (com agendamento de retirada ou ponto de entrega).
-RF06 – O sistema deve exibir o total arrecadado por campanha.
-RF07 – O sistema deve permitir o cadastro e a edição de campanhas pela administração da ONG.
-RF08 – O sistema deve enviar confirmação por e-mail após a doação.
-RF09 – O sistema deve permitir contato entre o doador e a ONG por formulário ou chat.
-RF10 – O sistema deve manter um histórico de doações por usuário.
+RF01 – O sistema deve permitir que o usuário visualize as campanhas ativas.
+RF02 – O sistema deve permitir que o usuário realize doações financeiras via cartão de crédito, débito ou PIX.
+RF03 – O sistema deve permitir que o usuário realize doações de itens físicos.
+RF04 – O sistema deve permitir o cadastro e a edição de campanhas pela administração da ONG.
+RF05 – O sistema deve enviar confirmação por e-mail após a doação.
+RF06 – O sistema deve permitir contato entre o doador e a ONG por formulário ou chat.
+RF07 – O sistema deve manter um histórico de doações por usuário.
